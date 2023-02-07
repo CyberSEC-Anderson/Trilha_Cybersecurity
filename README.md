@@ -1,8 +1,3 @@
-# Trilha_Cybersecurity
-Trilha de conhecimentos necessários para Analistas de Cibersegurança
-
-https://github.com/CyberSEC-Anderson/Trilha_Cybersecurity/wiki
-
 _Autor: Anderson Silva Lima (www.linkedin.com/in/ls-anderson)_
 
 # INTRODUÇÃO - RESUMO
